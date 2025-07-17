@@ -4,12 +4,12 @@
 - В целом, проект функционирует, остались некоторые мелочи, которые хотелось бы реализовать, но пока нет желания, ибо занят другими проектами (см. projectTasks.txt).
 
 Технологический стек:
-Java 17
-Spring Framework 6.1
-PostgreSQL 15
-Thymeleaf
-HTML
-jQuery
+- Java 17
+- Spring Framework 6.1
+- PostgreSQL 15
+- Thymeleaf
+- HTML
+- jQuery
 
 В планах еще все покрыть тестами с помощью JUnit.
 
